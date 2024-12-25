@@ -1,0 +1,5 @@
+
+db name : quickeats
+db pass : quickeats
+
+db url : mongodb+srv://quickeats:quickeats@cluster0.dzhrr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
